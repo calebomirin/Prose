@@ -56,13 +56,13 @@ button{
 footer{
     background-color:green;
     padding:25px;
-}
+  }
 form{
     background-color:white;
     padding:25px;
     margin :15px;
     border:30px;
-}
+ }
     </style>
 </body>
 </html>
